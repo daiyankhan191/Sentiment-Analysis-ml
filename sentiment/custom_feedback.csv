@@ -1,0 +1,11 @@
+text,label
+"This platform is very helpful and easy to use.",positive
+"I love how intuitive the interface is.",positive
+"The dashboard is confusing and slow to load.",negative
+"Registration was seamless and fast.",positive
+"Too many bugs in the form submission.",negative
+"The sentiment analysis results were spot on!",positive
+"I don’t feel my data is safe here.",negative
+"Great analytics and visualization features.",positive
+"Had trouble accessing the quiz module.",negative
+"Excellent user experience and clean UI.",positive
